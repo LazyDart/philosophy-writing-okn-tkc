@@ -8,7 +8,7 @@ aliases:
 ---
 Zasadą wydaje się być to, że powinniśmy wywodzić to co określone z tego co nieokreślone. (Jedność z różnorodności? Jednoznaczność z niejednoznaczności?)
 
-Stałość ze zmiany, identyczność z różnicy.
+Stałość ze zmiany, identyczność z [[Różnica|różnicy]].
 
 W tych wypadkach jedna z własności jest nadzbiorem tej drugiej (zmiana nadzbiór stałości).
 Łatwiej sobie wyobrazić, że stale zmienny proces nieustannie powtarza "funkcję identyczności", aniżeli że niezmienny obiekt, nagle doznaje zmiany.
