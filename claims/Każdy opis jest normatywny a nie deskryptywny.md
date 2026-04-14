@@ -9,7 +9,8 @@ aliases:
 ## Claim
 Niemożliwa jest postawa, w której po prostu opisuje się "tak jak jest", aniżeli "tak jak powinno być".
 #uwaga użycie słowa "powinno" jest tu bardzo ryzykowne. Fortunnie byłoby powiedzieć "od teraz tak będzie". 
-Bo ściśle rzecz biorąc "powinno" prawie nigdy nie jest intencją, ani faktyczną treścią sądów. Jest co najwyżej absurdalną konsekwencją.
+Bo ściśle rzecz biorąc "powinno" prawie nigdy nie jest intencją, ani faktyczną treścią sądów. Jest co najwyżej absurdalną konsekwencją. (https://chatgpt.com/share/69dde952-f204-8389-83cd-22eeb8611b97)
+
 ## Przesłanki
 1. Każde działanie wynika z zinternalizowanych wartości (nawyków) odgrywanych świadomie lub podświadomie.
    Opis, jako tworzenie reprezentacji językowej obserwowanego bezpośrednio lub niebezpośrednio świata również jest działaniem, które ugruntowane jest w zinternalizowanych wartościach. 
