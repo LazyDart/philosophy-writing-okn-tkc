@@ -3,6 +3,7 @@
 2) Follow https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429 (use classic token "repo" permission)
 3) Reload obsidian
 
+test pusha
 
 # Tags
 \#TODO - aby oznaczyć rzeczy do poprawy
